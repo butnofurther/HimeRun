@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HimeRun", "HimeRun\HimeRun.csproj", "{09C9AF1A-8823-44B3-ADEB-C2EDA8516CCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09C9AF1A-8823-44B3-ADEB-C2EDA8516CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09C9AF1A-8823-44B3-ADEB-C2EDA8516CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09C9AF1A-8823-44B3-ADEB-C2EDA8516CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09C9AF1A-8823-44B3-ADEB-C2EDA8516CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8186AD4-670A-4EB8-982D-9227C80A046F}
+	EndGlobalSection
+EndGlobal
