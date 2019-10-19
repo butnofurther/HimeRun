@@ -1,6 +1,6 @@
 ## 最新编译版本(1.910.1910)下载地址
 https://github.com/butnofurther/HimeRun/blob/master/HimeRun.1.910.1910.7z
-## 一个替代Windows自带【运行】命令的工具
+## HimeRun 一个替代Windows自带【运行】命令的工具
 ### 特性
 1. 支持输入通过文件名、文件名中文拼音启动程序；
 2. 支持模糊匹配、支持打开多种类型的文件（默认为程序文件exe）；
