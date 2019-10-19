@@ -10,7 +10,10 @@ https://github.com/butnofurther/HimeRun/blob/master/HimeRun.1.910.1910.7z
 5. 美化的界面、更友好的热键操作；
 6. 支持热键呼出和失去焦点隐藏；
 7. 默认开机自动启动（包括Win10系统）；
-8. 按下Enter打开文件，按下Ctrl+Enter在网上搜索内容。
+8. 按下Enter打开文件，按下Ctrl+Enter在网上搜索内容;
+![20191019145501](https://github.com/butnofurther/HimeRun/blob/master/README.image/20191019145501.png)
+![20191019145601](https://github.com/butnofurther/HimeRun/blob/master/README.image/20191019145601.png)
+9. 按下Tab和Shift+Tab组合键，可回看曾运行过程序记录（按时间排序）。
 ### 运行环境
 Windows Xp SP3 以上的32位或64位系统，.net Framework 4.0 或以上版本。
 由于Win10等现代Windows版本对部分系统目录进行了权限保护，因此本软件需要**管理员权限**启动。
