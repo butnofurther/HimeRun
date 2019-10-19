@@ -1,7 +1,13 @@
-## 最新编译版本(1.910.1910)下载地址
-https://github.com/butnofurther/HimeRun/blob/master/HimeRun.1.910.1910.7z
+## 最新编译版本(1.910.1920)下载地址
+https://github.com/butnofurther/HimeRun/blob/master/HimeRun.1.910.1920.7z
 ## HimeRun 一个替代Windows自带【运行】命令的工具
 ![20191019145001](https://github.com/butnofurther/HimeRun/blob/master/README.image/20191019145001.png)
+## 更新记录
+### 1.910.1920 (2019-10-19)
+1. UI增加了中文语言支持;
+2. 增加了避免程序多开的限制；
+3. 修正了设置遍历路径时的一些BUG。
+**本软件可直接覆盖更新，覆盖前请先退出正在运行的实例。**
 ### 特性
 1. 支持输入通过文件名、文件名中文拼音启动程序；
 2. 支持模糊匹配、支持打开多种类型的文件（默认为程序文件exe）；
